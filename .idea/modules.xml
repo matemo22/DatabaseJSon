@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DatabaseJSon.iml" filepath="$PROJECT_DIR$/DatabaseJSon.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://D:\MobileApplication\DatabaseJSon\app\app.iml" filepath="D:\MobileApplication\DatabaseJSon\app\app.iml" />
       <module fileurl="file://D:\MobileApplication\DatabaseJSon\week14app.iml" filepath="D:\MobileApplication\DatabaseJSon\week14app.iml" />
     </modules>
   </component>
